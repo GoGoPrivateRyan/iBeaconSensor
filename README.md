@@ -1,7 +1,7 @@
 iBeaconSensor
 =============
 List the keywords or technologies used in this project.
-- (1) Add CoreLocation framework upport
+- (1) Add CoreLocation framework support
 - (2) Background mode
   - Location updates
   - Uses Bluetooth LE as accessory
